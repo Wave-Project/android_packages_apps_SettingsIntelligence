@@ -35,6 +35,9 @@
     <!-- Dashboard image tile size -->
     <dimen name="dashboard_tile_image_size">24dp</dimen>
 
+    <!-- Toolbar height -->
+    <dimen name="toolbar_height">80dp</dimen>
+
     <!-- Dashboard tile image margin start / end -->
     <dimen name="dashboard_tile_image_margin">24dp</dimen>
 </resources>
